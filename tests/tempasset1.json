@@ -1,0 +1,3003 @@
+{
+  "id": 23139585,
+  "num_sales": 1,
+  "background_color": null,
+  "image_url": "https://i.seadn.io/gae/Gte4G8INDdvgGe8bjr571SFq_WCwAUzBz8OYd4cVwVsC42SScYiMlma4CCZpvapbhYszdK8nUQiu57ukkJPdrFKR2Qfp4Fgk0UauNAc?w=500&auto=format",
+  "image_preview_url": "https://i.seadn.io/gae/Gte4G8INDdvgGe8bjr571SFq_WCwAUzBz8OYd4cVwVsC42SScYiMlma4CCZpvapbhYszdK8nUQiu57ukkJPdrFKR2Qfp4Fgk0UauNAc?w=500&auto=format",
+  "image_thumbnail_url": "https://i.seadn.io/gae/Gte4G8INDdvgGe8bjr571SFq_WCwAUzBz8OYd4cVwVsC42SScYiMlma4CCZpvapbhYszdK8nUQiu57ukkJPdrFKR2Qfp4Fgk0UauNAc?w=500&auto=format",
+  "image_original_url": "ipfs://QmYbMu6w93hLooT1rsw1f3LQe9EgEat5xPvB5jwUJzSJ82",
+  "animation_url": null,
+  "animation_original_url": null,
+  "name": null,
+  "description": null,
+  "external_link": null,
+  "asset_contract": {
+    "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "asset_contract_type": "non-fungible",
+    "created_date": "2021-04-22T03:03:43.731860",
+    "name": "BoredApeYachtClub",
+    "nft_version": "3.0",
+    "opensea_version": null,
+    "owner": 601,
+    "schema_name": "ERC721",
+    "symbol": "BAYC",
+    "total_supply": "0",
+    "description": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+    "external_link": "http://www.boredapeyachtclub.com/",
+    "image_url": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?w=500&auto=format",
+    "default_to_fiat": false,
+    "dev_buyer_fee_basis_points": 0,
+    "dev_seller_fee_basis_points": 250,
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": 0,
+    "opensea_seller_fee_basis_points": 250,
+    "buyer_fee_basis_points": 0,
+    "seller_fee_basis_points": 500,
+    "payout_address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1"
+  },
+  "permalink": "https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/6715",
+  "collection": {
+    "payment_tokens": [
+      {
+        "id": 13689077,
+        "symbol": "ETH",
+        "address": "0x0000000000000000000000000000000000000000",
+        "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+        "name": "Ether",
+        "decimals": 18,
+        "eth_price": 1,
+        "usd_price": 1250.47
+      },
+      {
+        "id": 4645681,
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "eth_price": 1,
+        "usd_price": 1250.47
+      },
+      {
+        "id": 4403908,
+        "symbol": "USDC",
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "image_url": "https://openseauserdata.com/files/749015f009a66abcb3bbb3502ae2f1ce.svg",
+        "name": "USD Coin",
+        "decimals": 6,
+        "eth_price": 0.00079898,
+        "usd_price": 1.001
+      },
+      {
+        "id": 409484150,
+        "symbol": "APE",
+        "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+        "image_url": "https://i.seadn.io/gae/mkqhiVl1_aEJWznOYPJjwKiZjWw4gUnGfBxMcPO96JYVBrlhGhyiPQX7YouGObqom5F_fJOnsalw3TK6nJ92Ijctkcw9egWMxVj6vqQ?w=500&auto=format",
+        "name": "ApeCoin",
+        "decimals": 18,
+        "eth_price": 0.00234009,
+        "usd_price": 2.94
+      }
+    ],
+    "primary_asset_contracts": [
+      {
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2021-04-22T03:03:43.731860",
+        "name": "BoredApeYachtClub",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 601,
+        "schema_name": "ERC721",
+        "symbol": "BAYC",
+        "total_supply": "0",
+        "description": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+        "external_link": "http://www.boredapeyachtclub.com/",
+        "image_url": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?w=500&auto=format",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 250,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 500,
+        "payout_address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1"
+      }
+    ],
+    "traits": {},
+    "stats": {
+      "one_hour_volume": 160,
+      "one_hour_change": 2.2,
+      "one_hour_sales": 3,
+      "one_hour_sales_change": 2,
+      "one_hour_average_price": 53.333333333333336,
+      "one_hour_difference": 110,
+      "six_hour_volume": 671.261,
+      "six_hour_change": 0.7343022703033409,
+      "six_hour_sales": 13,
+      "six_hour_sales_change": 0.8571428571428571,
+      "six_hour_average_price": 51.635461538461534,
+      "six_hour_difference": 284.21139999999997,
+      "one_day_volume": 1263.0005999999998,
+      "one_day_change": 2.6764637733133676,
+      "one_day_sales": 24,
+      "one_day_sales_change": 3,
+      "one_day_average_price": 52.625024999999994,
+      "one_day_difference": 919.4637999999999,
+      "seven_day_volume": 5573.612500000001,
+      "seven_day_change": 1.9422202057057918,
+      "seven_day_sales": 92,
+      "seven_day_average_price": 60.5827445652174,
+      "seven_day_difference": 3679.256500000001,
+      "thirty_day_volume": 12002.793901149998,
+      "thirty_day_change": 0.057426988013677065,
+      "thirty_day_sales": 170,
+      "thirty_day_average_price": 70.60467000676469,
+      "thirty_day_difference": 651.8504911499967,
+      "total_volume": 685673.833121821,
+      "total_sales": 27367,
+      "total_supply": 9998,
+      "count": 9998,
+      "num_owners": 6399,
+      "average_price": 25.05476790009212,
+      "num_reports": 1,
+      "market_cap": 605706.2801630436,
+      "floor_price": 0
+    },
+    "banner_image_url": "https://i.seadn.io/gae/i5dYZRkVCUK97bfprQ3WXyrT9BnLSZtVKGJlKQ919uaUB0sxbngVCioaiyu9r6snqfi2aaTyIvv6DHm4m2R3y7hMajbsv14pSZK8mhs?w=500&auto=format",
+    "chat_url": null,
+    "created_date": "2021-04-22T23:14:03.967121+00:00",
+    "default_to_fiat": false,
+    "description": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+    "dev_buyer_fee_basis_points": "0",
+    "dev_seller_fee_basis_points": "250",
+    "discord_url": "https://discord.gg/3P5K3dzgdB",
+    "display_data": {
+      "card_display_style": "contain"
+    },
+    "external_url": "http://www.boredapeyachtclub.com/",
+    "featured": false,
+    "featured_image_url": "https://i.seadn.io/gae/RBX3jwgykdaQO3rjTcKNf5OVwdukKO46oOAV3zZeiaMb8VER6cKxPDTdGZQdfWcDou75A8KtVZWM_fEnHG4d4q6Um8MeZIlw79BpWPA?w=500&auto=format",
+    "hidden": false,
+    "safelist_request_status": "verified",
+    "image_url": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?w=500&auto=format",
+    "is_subject_to_whitelist": false,
+    "large_image_url": "https://i.seadn.io/gae/RBX3jwgykdaQO3rjTcKNf5OVwdukKO46oOAV3zZeiaMb8VER6cKxPDTdGZQdfWcDou75A8KtVZWM_fEnHG4d4q6Um8MeZIlw79BpWPA?w=500&auto=format",
+    "medium_username": null,
+    "name": "Bored Ape Yacht Club",
+    "only_proxied_transfers": false,
+    "opensea_buyer_fee_basis_points": "0",
+    "opensea_seller_fee_basis_points": "250",
+    "payout_address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+    "require_email": false,
+    "short_description": null,
+    "slug": "boredapeyachtclub",
+    "telegram_url": null,
+    "twitter_username": "BoredApeYC",
+    "instagram_username": null,
+    "wiki_url": null,
+    "is_nsfw": false,
+    "fees": {
+      "seller_fees": {
+        "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1": 250
+      },
+      "opensea_fees": {
+        "0x0000a26b00c1f0df003000390027140000faa719": 250
+      }
+    },
+    "is_rarity_enabled": false
+  },
+  "decimals": 0,
+  "token_metadata": "https://ipfs.io/ipfs/QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/6715",
+  "is_nsfw": false,
+  "owner": {
+    "user": {
+      "username": "StormNFT"
+    },
+    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+    "address": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+    "config": ""
+  },
+  "seaport_sell_orders": [
+    {
+      "created_date": "2022-11-15T04:57:24.176271",
+      "closing_date": "2022-12-12T19:14:46",
+      "listing_time": 1668488122,
+      "expiration_time": 1670872486,
+      "order_hash": "0x0084a448ef732abf353fb9580cf578e208ca70fca8d74729e47e3bd5ea71fea2",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+          "offer": [
+            {
+              "itemType": 2,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "6715",
+              "startAmount": "1",
+              "endAmount": "1"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "51300000000000000000",
+              "endAmount": "51300000000000000000",
+              "recipient": "0x4385FF4B76d8A7fa8075Ed1ee27c82fFE0951456"
+            },
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "1350000000000000000",
+              "endAmount": "1350000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "1350000000000000000",
+              "endAmount": "1350000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668488122",
+          "endTime": "1670872486",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000e01102f784eec952",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x127725b2ad9e903e6512dabc77045bdd1962de7a0b8a6e86a39617243f0eabf42ed94b389d909b1663166389be6b5af02f8e6406e358aabfeaa787051b197a501b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 355307,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+        "address": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "54000000000000000000",
+      "maker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "taker_fees": [],
+      "side": "ask",
+      "order_type": "basic",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x127725b2ad9e903e6512dabc77045bdd1962de7a0b8a6e86a39617243f0eabf42ed94b389d909b1663166389be6b5af02f8e6406e358aabfeaa787051b197a501b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTUyNTU5MQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T02:34:54.649925",
+      "closing_date": "2022-12-12T19:14:46",
+      "listing_time": 1668479572,
+      "expiration_time": 1670872486,
+      "order_hash": "0xf8067f45f6cf325bb9fd05e298b9d07002a0986f67b888c0cb67fe792f95a501",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+          "offer": [
+            {
+              "itemType": 2,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "6715",
+              "startAmount": "1",
+              "endAmount": "1"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "56050000000000000000",
+              "endAmount": "56050000000000000000",
+              "recipient": "0x4385FF4B76d8A7fa8075Ed1ee27c82fFE0951456"
+            },
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "1475000000000000000",
+              "endAmount": "1475000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "1475000000000000000",
+              "endAmount": "1475000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668479572",
+          "endTime": "1670872486",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000e81edfe732d9c8f7",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x31f99819a7d82ec3e873674a6eb1eeb3e33b106084289d1ab5e1100e8a1a210735b5ab7add488cc12892a69df0df06e4765274eac174488390743c7544ce80ea1b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 355307,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+        "address": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "59000000000000000000",
+      "maker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "taker_fees": [],
+      "side": "ask",
+      "order_type": "basic",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x31f99819a7d82ec3e873674a6eb1eeb3e33b106084289d1ab5e1100e8a1a210735b5ab7add488cc12892a69df0df06e4765274eac174488390743c7544ce80ea1b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNDg3NjUyNA",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-12T19:18:21.624322",
+      "closing_date": "2022-12-12T19:14:46",
+      "listing_time": 1668280486,
+      "expiration_time": 1670872486,
+      "order_hash": "0xbb6d011aadc3532c4c2b0bc9e4958c555b8262df2d62c6bc248009f99f985f26",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+          "offer": [
+            {
+              "itemType": 2,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "6715",
+              "startAmount": "1",
+              "endAmount": "1"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "65550000000000000000",
+              "endAmount": "65550000000000000000",
+              "recipient": "0x4385FF4B76d8A7fa8075Ed1ee27c82fFE0951456"
+            },
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "1725000000000000000",
+              "endAmount": "1725000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 0,
+              "token": "0x0000000000000000000000000000000000000000",
+              "identifierOrCriteria": "0",
+              "startAmount": "1725000000000000000",
+              "endAmount": "1725000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668280486",
+          "endTime": "1670872486",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000e59ef16aa211f28e",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x688b4260ff27c6c8e6ffed63b438db6a65688c39ca64827704aa9f4a948faa8352519250bc9756787f9386917461cf770ff378cce6c9eb7c48898189388994651b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 355307,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+        "address": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "69000000000000000000",
+      "maker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "taker_fees": [],
+      "side": "ask",
+      "order_type": "basic",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x688b4260ff27c6c8e6ffed63b438db6a65688c39ca64827704aa9f4a948faa8352519250bc9756787f9386917461cf770ff378cce6c9eb7c48898189388994651b",
+      "relay_id": "T3JkZXJWMlR5cGU6Njg5NzYwODMzMA",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T06:20:09.569919",
+      "closing_date": "2022-11-18T06:19:47",
+      "listing_time": 1668493207,
+      "expiration_time": 1668752387,
+      "order_hash": "0xdb6474b5f764de162d1abe18337fc9780dbf18015de3454ee41b75b77a6ad0b7",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x5168b30b962217dad49213c025263f6f4fab9a87",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "129000000000000000",
+              "endAmount": "129000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x5168B30B962217daD49213c025263f6f4FAb9A87"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "3225000000000000",
+              "endAmount": "3225000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "3225000000000000",
+              "endAmount": "3225000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668493207",
+          "endTime": "1668752387",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000d35f9345d888e317",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 1
+        },
+        "signature": "0x26f423cbcdaf3e3d5790576fe6153b2af6ecea34d02486ac7bb14e48749d37be754df98fc0c7bed7923e145082b91d83122a07bb06c693ff3e59e4465208f3301b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 469944,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+        "address": "0x5168b30b962217dad49213c025263f6f4fab9a87",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "129000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x26f423cbcdaf3e3d5790576fe6153b2af6ecea34d02486ac7bb14e48749d37be754df98fc0c7bed7923e145082b91d83122a07bb06c693ff3e59e4465208f3301b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTkzNTIyMg",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T06:04:10.220136",
+      "closing_date": "2022-11-16T06:03:59",
+      "listing_time": 1668492242,
+      "expiration_time": 1668578639,
+      "order_hash": "0xfc0a38e2dacd27ebd4e68ba21882e16fd88626940d4bd90a1efd77b4f973eb78",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xed2ab4948ba6a909a7751dec4f34f303eb8c7236",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "48700000000000000000",
+              "endAmount": "48700000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xed2ab4948bA6A909a7751DEc4F34f303eB8c7236"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1217500000000000000",
+              "endAmount": "1217500000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1217500000000000000",
+              "endAmount": "1217500000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668492242",
+          "endTime": "1668578639",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe000000000000000000000000000000000000000095104323bf80c433",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 68
+        },
+        "signature": "0xfbbf171955e068f6d7047d4b028ab4d090d082d76536bd6e5e145010b0cf29fe6f07674dc9fc688343662e7777f15323f518e5eee4aaafe9acf72b64b4cda5731b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 10556927,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+        "address": "0xed2ab4948ba6a909a7751dec4f34f303eb8c7236",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "48700000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0xfbbf171955e068f6d7047d4b028ab4d090d082d76536bd6e5e145010b0cf29fe6f07674dc9fc688343662e7777f15323f518e5eee4aaafe9acf72b64b4cda5731b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTg1ODk5Mg",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T06:03:58.002723",
+      "closing_date": "2022-11-16T06:03:48",
+      "listing_time": 1668492234,
+      "expiration_time": 1668578628,
+      "order_hash": "0x5cd92a610cc8302b7d93b91230ed9b226ab0b498cad410d899959f12cdd18d21",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xbbdd1b3c87c211e482cda98ea14fa8bf50022ca0",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "46700000000000000000",
+              "endAmount": "46700000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xbbDd1b3C87c211E482CdA98eA14fa8bF50022CA0"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1167500000000000000",
+              "endAmount": "1167500000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1167500000000000000",
+              "endAmount": "1167500000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668492234",
+          "endTime": "1668578628",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000008f5831b19491d04c",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 145
+        },
+        "signature": "0x3ca0d3b9abc82f46b107985aaa7a44b7c06c44b9e8afdb84a49a91ca585d99e4606cce1d9e9de5b88a622aeed04273612639c9d44ceaf6fa37cb4e9fa38326e01b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 1812313,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/30.png",
+        "address": "0xbbdd1b3c87c211e482cda98ea14fa8bf50022ca0",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "46700000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x3ca0d3b9abc82f46b107985aaa7a44b7c06c44b9e8afdb84a49a91ca585d99e4606cce1d9e9de5b88a622aeed04273612639c9d44ceaf6fa37cb4e9fa38326e01b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTg1NzkyNQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T05:53:30.276579",
+      "closing_date": "2022-11-15T14:30:00",
+      "listing_time": 1668491598,
+      "expiration_time": 1668522600,
+      "order_hash": "0xf30138b9e2eef68ed425516d23f2bd8f301ae637dc5c496435a951019e7e1fb5",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xd2c894e3ae98f342761dfd4afd7d23a371ca95c6",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "48200000000000000000",
+              "endAmount": "48200000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xD2c894E3ae98f342761DFd4aFD7D23A371ca95C6"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1205000000000000000",
+              "endAmount": "1205000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1205000000000000000",
+              "endAmount": "1205000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668491598",
+          "endTime": "1668522600",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000007ed7d48db47df3fb",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x52341ad1d0f2bf924c73d2843e56921ffca5553bc734c8ba4fcc7b2fc7014f3a5d5af56e5217f153e435fa7a026d49cb19ed7805e11f79456bf7973cae093d411b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 33733497,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+        "address": "0xd2c894e3ae98f342761dfd4afd7d23a371ca95c6",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "48200000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x52341ad1d0f2bf924c73d2843e56921ffca5553bc734c8ba4fcc7b2fc7014f3a5d5af56e5217f153e435fa7a026d49cb19ed7805e11f79456bf7973cae093d411b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTgwMzkzNQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T05:41:49.305540",
+      "closing_date": "2022-11-18T05:41:28",
+      "listing_time": 1668490907,
+      "expiration_time": 1668750088,
+      "order_hash": "0xda93c6c44cfbedb395b0af6ae5deae8d4b64ef83bcddb0b7589d6015e3660ce8",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xbf7c6b9bbc179d63a9ff90e99d85dd792b040f64",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "428000000000000000",
+              "endAmount": "428000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xbF7c6B9bBc179D63A9FF90e99D85DD792b040F64"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "10700000000000000",
+              "endAmount": "10700000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "10700000000000000",
+              "endAmount": "10700000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668490907",
+          "endTime": "1668750088",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000b6d38f9ce16f701a",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 2
+        },
+        "signature": "0x138f535e9a8e96dc21e1c49d502ddeb90abe800a2ba39e77a715b96860cece7127c4cb10ed6339ebd37c12dd0ca0ea5a2a080c08814efdfb2c67277ab74e29431c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 20982403,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+        "address": "0xbf7c6b9bbc179d63a9ff90e99d85dd792b040f64",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "428000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x138f535e9a8e96dc21e1c49d502ddeb90abe800a2ba39e77a715b96860cece7127c4cb10ed6339ebd37c12dd0ca0ea5a2a080c08814efdfb2c67277ab74e29431c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTc0MTk0Mw",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T04:30:01.324744",
+      "closing_date": "2022-11-16T04:29:44",
+      "listing_time": 1668486589,
+      "expiration_time": 1668572984,
+      "order_hash": "0x516b7d4a6eefc20782ed100447fa2e571b85c56c452ca1ad645e9ff0280b3c8b",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xd2c894e3ae98f342761dfd4afd7d23a371ca95c6",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "46600000000000000000",
+              "endAmount": "46600000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xD2c894E3ae98f342761DFd4aFD7D23A371ca95C6"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1165000000000000000",
+              "endAmount": "1165000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1165000000000000000",
+              "endAmount": "1165000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668486589",
+          "endTime": "1668572984",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000001e47765a10d61bd1",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0xa1b170cc0eea71d23df3b860419f18acc117f9d40ccc1d67283e1eb5f75c0fc72899848af18e755e47d51f6aaec753622bf9a3e6a9699ad53eeb5da84f3952231c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 33733497,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+        "address": "0xd2c894e3ae98f342761dfd4afd7d23a371ca95c6",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "46600000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0xa1b170cc0eea71d23df3b860419f18acc117f9d40ccc1d67283e1eb5f75c0fc72899848af18e755e47d51f6aaec753622bf9a3e6a9699ad53eeb5da84f3952231c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTM5ODcwMQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T03:48:57.068272",
+      "closing_date": "2022-11-16T03:48:47",
+      "listing_time": 1668484130,
+      "expiration_time": 1668570527,
+      "order_hash": "0x8b4acb12f1b463ac0b1d958b8ed2190b023d492e2cc3b79589389cbdd92f5aa7",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xd2c894e3ae98f342761dfd4afd7d23a371ca95c6",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "46050000000000000000",
+              "endAmount": "46050000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xD2c894E3ae98f342761DFd4aFD7D23A371ca95C6"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1151250000000000000",
+              "endAmount": "1151250000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1151250000000000000",
+              "endAmount": "1151250000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668484130",
+          "endTime": "1668570527",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000a5025614e81a4593",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x4e3b4ee006d10397e90f93e51474b766e0161ee0ab92abd280fe815858567b6e2eb723132f356243e3e26d6118fa2e18a7fdf3dbc0abde0569ae8506e2fb6b541c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 33733497,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+        "address": "0xd2c894e3ae98f342761dfd4afd7d23a371ca95c6",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "46050000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x4e3b4ee006d10397e90f93e51474b766e0161ee0ab92abd280fe815858567b6e2eb723132f356243e3e26d6118fa2e18a7fdf3dbc0abde0569ae8506e2fb6b541c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTIxMzI3OA",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T03:25:13.201170",
+      "closing_date": "2022-11-18T03:24:43",
+      "listing_time": 1668482700,
+      "expiration_time": 1668741883,
+      "order_hash": "0x0fe9c97dd1816bcc6e3d2717d7855a4205bc7136ce83a2a801e481c57a32722c",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x668b78ce9308c5859ed3c2958b0d71de9c2cc2a4",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "555500000000000000",
+              "endAmount": "555500000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x668B78Ce9308C5859ed3c2958b0d71De9C2cC2a4"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "13887500000000000",
+              "endAmount": "13887500000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "13887500000000000",
+              "endAmount": "13887500000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668482700",
+          "endTime": "1668741883",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000a22647861dbb7dc8",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 5
+        },
+        "signature": "0x5f64225cf275d64841d6b3261903a6b04da667e2236c2c648ed681db50a68d9b7719b82560e563c9fd560ddfb444d086826f25a37678f7750a5eeed57f9743571c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 28467330,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+        "address": "0x668b78ce9308c5859ed3c2958b0d71de9c2cc2a4",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "555500000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x5f64225cf275d64841d6b3261903a6b04da667e2236c2c648ed681db50a68d9b7719b82560e563c9fd560ddfb444d086826f25a37678f7750a5eeed57f9743571c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTEwMTQ3Ng",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T03:09:14.402511",
+      "closing_date": "2022-11-16T03:09:05",
+      "listing_time": 1668481750,
+      "expiration_time": 1668568145,
+      "order_hash": "0xa62786d169f2277129b71920efc392b5964fb594b577b0311322d8df4d4858ab",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xf1bcf736a46d41f8a9d210777b3d75090860a665",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "45200000000000000000",
+              "endAmount": "45200000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xf1BCf736a46D41f8a9d210777B3d75090860a665"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1130000000000000000",
+              "endAmount": "1130000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1130000000000000000",
+              "endAmount": "1130000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668481750",
+          "endTime": "1668568145",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000038edf8c2f5dd0a8",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x25a33b76421dd3e42ad73d2cb7cfa29d5310282337548582ecc3a075619133d22735ef0feb13cae3d623b2e3aaf934b599ab891c082bd2222cee0e8a725e48b21c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 37461953,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
+        "address": "0xf1bcf736a46d41f8a9d210777b3d75090860a665",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "45200000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x25a33b76421dd3e42ad73d2cb7cfa29d5310282337548582ecc3a075619133d22735ef0feb13cae3d623b2e3aaf934b599ab891c082bd2222cee0e8a725e48b21c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNTAyOTczOQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T03:01:53.628321",
+      "closing_date": "2022-11-18T03:01:39",
+      "listing_time": 1668481305,
+      "expiration_time": 1668740499,
+      "order_hash": "0xefdd4fcac4b98335f3b0ce8f21a2012fa29734ed6e3f67b4fa70f880d8643ea7",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x8e3c1a1e979cf20fe9bf8e550dca5ed7ce4e10d2",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "511000000000000000",
+              "endAmount": "511000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x8E3c1a1e979CF20fE9BF8E550dCa5Ed7ce4e10D2"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "12775000000000000",
+              "endAmount": "12775000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "12775000000000000",
+              "endAmount": "12775000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668481305",
+          "endTime": "1668740499",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000004090912805097ba9",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x02c839b0162a8a0012d35400b7d3e7a8fd23f546e7846c3bad0f0df31769343718b9025a1d52fb14eaa44ec0345adfb5545c60acc540d3444c551308f06e487a1b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 27998741,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/30.png",
+        "address": "0x8e3c1a1e979cf20fe9bf8e550dca5ed7ce4e10d2",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "511000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x02c839b0162a8a0012d35400b7d3e7a8fd23f546e7846c3bad0f0df31769343718b9025a1d52fb14eaa44ec0345adfb5545c60acc540d3444c551308f06e487a1b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNDk5NjkyNA",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T02:58:29.344772",
+      "closing_date": "2022-11-18T02:57:39",
+      "listing_time": 1668481074,
+      "expiration_time": 1668740259,
+      "order_hash": "0x22c2f4ef6e2a2394b734167af93cdccfc5dda8c8dded665380e303f91976c4f7",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xae51c642f00e85d5b3534e0b404bcfae6802f4f9",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+              "identifierOrCriteria": "0",
+              "startAmount": "54000000",
+              "endAmount": "54000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xAE51c642F00e85d5B3534e0B404BCfAE6802F4F9"
+            },
+            {
+              "itemType": 1,
+              "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+              "identifierOrCriteria": "0",
+              "startAmount": "1350000",
+              "endAmount": "1350000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+              "identifierOrCriteria": "0",
+              "startAmount": "1350000",
+              "endAmount": "1350000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668481074",
+          "endTime": "1668740259",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000769e7e7480369724",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x2c8699b478f9306170e6251bd838e4775cf797b0b8f0e61616d89baf4a811fcd10458fd473cb01153a6597d34a5441fe1a42b0471202b3bba129555e652fc3a81c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 964298,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+        "address": "0xae51c642f00e85d5b3534e0b404bcfae6802f4f9",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "54000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x2c8699b478f9306170e6251bd838e4775cf797b0b8f0e61616d89baf4a811fcd10458fd473cb01153a6597d34a5441fe1a42b0471202b3bba129555e652fc3a81c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNDk4MTcxMA",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T02:22:01.764765",
+      "closing_date": "2022-11-15T09:21:00",
+      "listing_time": 1668478918,
+      "expiration_time": 1668504060,
+      "order_hash": "0xbc088c7b918964b5db472981a377a5a3088f7b89e7bdc65aa78f0d7f11b17dfb",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x1a71709c62ad2013ea377f11602099a2b411a93c",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "45100000000000000000",
+              "endAmount": "45100000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x1a71709C62aD2013ea377F11602099a2b411a93C"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1127500000000000000",
+              "endAmount": "1127500000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1127500000000000000",
+              "endAmount": "1127500000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668478918",
+          "endTime": "1668504060",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000006a98f12251390f6f",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 1
+        },
+        "signature": "0x9dce8c84bad2f7ddb3c173086a89c5d00a661cfa231f443f1992e2970d9189523dff464bb2bb76fb8604379e85d4acc028b29a86ff546daaa69b8d3e0b8cf8951b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 36470227,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x1a71709c62ad2013ea377f11602099a2b411a93c",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "45100000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x9dce8c84bad2f7ddb3c173086a89c5d00a661cfa231f443f1992e2970d9189523dff464bb2bb76fb8604379e85d4acc028b29a86ff546daaa69b8d3e0b8cf8951b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNDgxOTYyMQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T01:05:56.956180",
+      "closing_date": "2022-11-15T14:30:00",
+      "listing_time": 1668474350,
+      "expiration_time": 1668522600,
+      "order_hash": "0x8d36d75e4800ef9766b4ecb7bb9434d7ebc6757c4bfc1eb398e37ac18b2824bf",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x5d150ec6c667bd6912ecdb618071882d5e758306",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "46000000000000000000",
+              "endAmount": "46000000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x5d150ec6c667bd6912EcdB618071882D5e758306"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1150000000000000000",
+              "endAmount": "1150000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1150000000000000000",
+              "endAmount": "1150000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668474350",
+          "endTime": "1668522600",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000005e3e7037e307b290",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x18162524991a6112e5a591ac04f14d90bc7195504a9897eea6ccdb2420233be7163c5b177df71835eee31c4f08721b55cad8da53255285d00fca692a64fff8431b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 29173445,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x5d150ec6c667bd6912ecdb618071882d5e758306",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "46000000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x18162524991a6112e5a591ac04f14d90bc7195504a9897eea6ccdb2420233be7163c5b177df71835eee31c4f08721b55cad8da53255285d00fca692a64fff8431b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNDQ2MzUwNQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-15T00:16:02.696645",
+      "closing_date": "2022-11-18T00:15:24",
+      "listing_time": 1668471354,
+      "expiration_time": 1668730524,
+      "order_hash": "0x8a0837725cb3bd64b96c5d04e5db61ee682160deafbabcbcd174677aed31d252",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x1b4dd5b8cbd450e0c33d809d3df5a3eadca0c5ae",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "485000000000000000",
+              "endAmount": "485000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x1b4DD5B8CBD450e0C33D809D3dF5A3EAdcA0c5ae"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "12125000000000000",
+              "endAmount": "12125000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "12125000000000000",
+              "endAmount": "12125000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668471354",
+          "endTime": "1668730524",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000005f62f84eec1736fb",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 1
+        },
+        "signature": "0xfcf6cbbc4bbcba1955c3827abaa896ca1521f5f681787ffb161982c6783c916916c62d1b7e1d7adbd151dff858f34dd281d1e70e169a6d13443eb27ab56576a81c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 38412447,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x1b4dd5b8cbd450e0c33d809d3df5a3eadca0c5ae",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "485000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0xfcf6cbbc4bbcba1955c3827abaa896ca1521f5f681787ffb161982c6783c916916c62d1b7e1d7adbd151dff858f34dd281d1e70e169a6d13443eb27ab56576a81c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxNDE5OTc1MQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T23:27:27.413962",
+      "closing_date": "2022-11-17T23:27:19",
+      "listing_time": 1668468445,
+      "expiration_time": 1668727639,
+      "order_hash": "0x617d3966623cc9ecf441117c30d8aeff6c2011ba2c9b5662893d3d2136b2000b",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xefd2b2d6170a056ba30b2ec02f988522210ce5f1",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "34710000000000000",
+              "endAmount": "34710000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "5",
+              "endAmount": "5",
+              "recipient": "0xEFD2B2d6170a056BA30B2EC02f988522210cE5f1"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "867750000000000",
+              "endAmount": "867750000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "867750000000000",
+              "endAmount": "867750000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668468445",
+          "endTime": "1668727639",
+          "orderType": 3,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000008f52aac094289460",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x83274ff93354eaa779d138a0294d8fcae62366c7065e373e03c49162af86e61909472b316c4dc2895010a8f51c611ee65d3e39f1111a22fc318ec7c9f5ef46a61c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 1477192,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/33.png",
+        "address": "0xefd2b2d6170a056ba30b2ec02f988522210ce5f1",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "34710000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x83274ff93354eaa779d138a0294d8fcae62366c7065e373e03c49162af86e61909472b316c4dc2895010a8f51c611ee65d3e39f1111a22fc318ec7c9f5ef46a61c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzk0NDIyMg",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T23:06:20.291648",
+      "closing_date": "2022-11-17T23:06:13",
+      "listing_time": 1668467178,
+      "expiration_time": 1668726373,
+      "order_hash": "0xc4f39a5c38179b15b819ce1363372398b4c8501e5e6026ec5c2b2356cab3c046",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xfcbdd520ddb1394b5bd20058e10b6da547b9ed23",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2400000000000000000",
+              "endAmount": "2400000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xfCBDd520DDB1394b5bD20058E10b6Da547B9Ed23"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "60000000000000000",
+              "endAmount": "60000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "60000000000000000",
+              "endAmount": "60000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668467178",
+          "endTime": "1668726373",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000006a5c15a4125db937",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0xf7f13361414e4f8a600aefe0955b730ab7c5769cc02c531a9ca6f119b6e43d6c2ba7ae0083e63c702b065a60850a2175187373cdd76f739cfb0275db0e8510201b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 36196313,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+        "address": "0xfcbdd520ddb1394b5bd20058e10b6da547b9ed23",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "2400000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0xf7f13361414e4f8a600aefe0955b730ab7c5769cc02c531a9ca6f119b6e43d6c2ba7ae0083e63c702b065a60850a2175187373cdd76f739cfb0275db0e8510201b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzgzMDQ5NA",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T23:03:48.871770",
+      "closing_date": "2022-11-15T23:03:42",
+      "listing_time": 1668467027,
+      "expiration_time": 1668553422,
+      "order_hash": "0xb4081aad5aecb298407bd01314bdd92460703717262966fb8d06f740276a14fb",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x1a71709c62ad2013ea377f11602099a2b411a93c",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "45000000000000000000",
+              "endAmount": "45000000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x1a71709C62aD2013ea377F11602099a2b411a93C"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1125000000000000000",
+              "endAmount": "1125000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1125000000000000000",
+              "endAmount": "1125000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668467027",
+          "endTime": "1668553422",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000dfdf889e6c009f38",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 1
+        },
+        "signature": "0x704f5115fe1f75db24461ccc22653b5cb8ae6f4c7815f6dbbed90b020841b4964c212c70b79571a363837ec9a12b610b999c98c56fddaa9f098a1195c1cc47221c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 36470227,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x1a71709c62ad2013ea377f11602099a2b411a93c",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "45000000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x704f5115fe1f75db24461ccc22653b5cb8ae6f4c7815f6dbbed90b020841b4964c212c70b79571a363837ec9a12b610b999c98c56fddaa9f098a1195c1cc47221c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzgxNjQ3Nw",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T23:00:59.965832",
+      "closing_date": "2022-11-17T23:00:12",
+      "listing_time": 1668466847,
+      "expiration_time": 1668726012,
+      "order_hash": "0x82ff213a763fdf8ac5f4630856c5bb2dfe740cc8603199234a95b59ff891b2c0",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x4078e4050394e99408060bedbcb41c3cbd91abb3",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "10000000000000000",
+              "endAmount": "10000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x4078e4050394e99408060bEdbcB41C3cbd91aBB3"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "250000000000000",
+              "endAmount": "250000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "250000000000000",
+              "endAmount": "250000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668466847",
+          "endTime": "1668726012",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000007950e129b14ff9cb",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x33b69b4392b276723f25e201869d54f6d5d7eafcb6cf0bfc8bb6132f7ec4e9e070a9ac774bc05ddae685bff3d7e7a49717e5147fe1005bba5d495d275ec254721b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 30221206,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+        "address": "0x4078e4050394e99408060bedbcb41c3cbd91abb3",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "10000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x33b69b4392b276723f25e201869d54f6d5d7eafcb6cf0bfc8bb6132f7ec4e9e070a9ac774bc05ddae685bff3d7e7a49717e5147fe1005bba5d495d275ec254721b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzgwMTU1NQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T22:37:53.674576",
+      "closing_date": "2022-11-17T22:37:43",
+      "listing_time": 1668465471,
+      "expiration_time": 1668724663,
+      "order_hash": "0x51b4468b0185a68562b8e06248f731a61c243bc90e4a0269fc3486aef1148f1b",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x1c75bb77f6b26a43df601cf515bff76ce7880932",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "30000000000000000",
+              "endAmount": "30000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x1C75bb77F6b26A43Df601CF515BFF76cE7880932"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "750000000000000",
+              "endAmount": "750000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "750000000000000",
+              "endAmount": "750000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668465471",
+          "endTime": "1668724663",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe000000000000000000000000000000000000000029d69664e00ab049",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0xb9f53e0d8c150b26f0c7e8d2e9e9c94de2347ca85436bb775f28fee6a40ec6407dffd8d11948849d0a48d263870b656bacf508c871fedb1cdcf7e4ff53e00c631b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 27702050,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/15.png",
+        "address": "0x1c75bb77f6b26a43df601cf515bff76ce7880932",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "30000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0xb9f53e0d8c150b26f0c7e8d2e9e9c94de2347ca85436bb775f28fee6a40ec6407dffd8d11948849d0a48d263870b656bacf508c871fedb1cdcf7e4ff53e00c631b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzY4MDMwNQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T22:19:46.182404",
+      "closing_date": "2022-11-17T22:19:18",
+      "listing_time": 1668464375,
+      "expiration_time": 1668723558,
+      "order_hash": "0xd2fb69cc07d9d4d8746b271f768acecc42e8f2ef2a4099e7bf572c77015693a6",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x7e5541ceeb1c1b24ca847f52f9505533f1c557e0",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1000000000000000000",
+              "endAmount": "1000000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x7E5541CEeb1C1B24Ca847F52f9505533F1c557e0"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "25000000000000000",
+              "endAmount": "25000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "25000000000000000",
+              "endAmount": "25000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668464375",
+          "endTime": "1668723558",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe000000000000000000000000000000000000000057204b1006900eea",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x7f5648303deaa6eb3b61642dc1a42b8f06aff7937f0a59a64c1b4b4b99931f23691f9103a6c6ce1c0d903c8a1e4541c47210d27e0588e2a933d5641aee1618e61c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 1353527,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+        "address": "0x7e5541ceeb1c1b24ca847f52f9505533f1c557e0",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "1000000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x7f5648303deaa6eb3b61642dc1a42b8f06aff7937f0a59a64c1b4b4b99931f23691f9103a6c6ce1c0d903c8a1e4541c47210d27e0588e2a933d5641aee1618e61c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzU4MTM1Ng",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T21:11:10.263191",
+      "closing_date": "2022-11-21T21:12:00",
+      "listing_time": 1668460257,
+      "expiration_time": 1669065120,
+      "order_hash": "0xf4656b8f2b2105c2ef16406ea5b9d674f02979623b6ad40acb8a1afee26273c3",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xe73185a8afa703a034d5a5fe038bb763fcaeb5f3",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "4444000000000000",
+              "endAmount": "4444000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xe73185A8Afa703a034D5A5fE038BB763fcAEB5F3"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "111100000000000",
+              "endAmount": "111100000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "111100000000000",
+              "endAmount": "111100000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668460257",
+          "endTime": "1669065120",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000b06aaf0afd71f2b4",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x279468706376e22aa425aa17b9733c50e160e8c187db92d795eab0c2b510fbf11b4a4452d9f13aa34a07d776582fe4e30e35616435078c9ae1e4c9388729e3701b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 6437046,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0xe73185a8afa703a034d5a5fe038bb763fcaeb5f3",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "4444000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x279468706376e22aa425aa17b9733c50e160e8c187db92d795eab0c2b510fbf11b4a4452d9f13aa34a07d776582fe4e30e35616435078c9ae1e4c9388729e3701b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzIxNTU2OQ",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T20:51:19.716001",
+      "closing_date": "2022-11-20T21:20:00",
+      "listing_time": 1668459076,
+      "expiration_time": 1668979200,
+      "order_hash": "0xeb7380ec9ade15ee34a0599716c3080265cc769d28a79a4b0a479b7721be185f",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x5d1566f78607473f386315847c57c0f972ca5ab1",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "85000000000000000",
+              "endAmount": "85000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x5D1566f78607473f386315847C57C0F972Ca5Ab1"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2125000000000000",
+              "endAmount": "2125000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2125000000000000",
+              "endAmount": "2125000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668459076",
+          "endTime": "1668979200",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000004ab5aca7f7169267",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0xee5153c7c762c1fbedb01d4c24d0d5900c4eed70248d16d907fade9f04fdb2497dbc986ca8002d4dc9c1159477ddebba7be7a6944c6ef3b01ec67c90f9c3e1ee1c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 2289503,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+        "address": "0x5d1566f78607473f386315847c57c0f972ca5ab1",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "85000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0xee5153c7c762c1fbedb01d4c24d0d5900c4eed70248d16d907fade9f04fdb2497dbc986ca8002d4dc9c1159477ddebba7be7a6944c6ef3b01ec67c90f9c3e1ee1c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzEwNzM4Nw",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T20:45:27.043356",
+      "closing_date": "2022-11-17T20:45:19",
+      "listing_time": 1668458720,
+      "expiration_time": 1668717919,
+      "order_hash": "0x0df0b675e58216afcbd752f62266af4b8cc78ab489d373d3a8e3c866857b4978",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x7ce6ee3207074a565bf4e89f26392405c2f21418",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1000000000000000000",
+              "endAmount": "1000000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x7CE6eE3207074a565bF4e89F26392405c2f21418"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "25000000000000000",
+              "endAmount": "25000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "25000000000000000",
+              "endAmount": "25000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668458720",
+          "endTime": "1668717919",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe000000000000000000000000000000000000000058e17d77e5dc2cfc",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0xb4ba4a9d97689f3585203a5c060514dfcd8c93ce2ee0e624b67f5c4bb823a5ae253f7a122d426b82e11b8d0c90f4a4f889f9603d83cae4c186ee5a71797141db1c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 7033,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/5.png",
+        "address": "0x7ce6ee3207074a565bf4e89f26392405c2f21418",
+        "config": "affiliate"
+      },
+      "taker": null,
+      "current_price": "1000000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0xb4ba4a9d97689f3585203a5c060514dfcd8c93ce2ee0e624b67f5c4bb823a5ae253f7a122d426b82e11b8d0c90f4a4f889f9603d83cae4c186ee5a71797141db1c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzA3NTMxNw",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T20:39:24.168737",
+      "closing_date": "2022-11-17T20:38:30",
+      "listing_time": 1668458359,
+      "expiration_time": 1668717510,
+      "order_hash": "0x1f4507b015c85ef36e3d1abd302f59d7970be4df9ca1335c899cb9857aa48edb",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x0d2f161d0de3e562b3993bc7a75d990891229df6",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "198000000000000000",
+              "endAmount": "198000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "2",
+              "endAmount": "2",
+              "recipient": "0x0D2f161D0dE3E562b3993bc7A75d990891229df6"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "4950000000000000",
+              "endAmount": "4950000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "4950000000000000",
+              "endAmount": "4950000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668458359",
+          "endTime": "1668717510",
+          "orderType": 3,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000600528ef44b4e886",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x58e03cbeca2327402c5221919ce6d887b0312af94e8025c014fd3a488b29db1c2496808404a465a20d2638a539517c6eddc6a076ddeb4ad04521a037b02adcb61c"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 32910019,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/16.png",
+        "address": "0x0d2f161d0de3e562b3993bc7a75d990891229df6",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "198000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x58e03cbeca2327402c5221919ce6d887b0312af94e8025c014fd3a488b29db1c2496808404a465a20d2638a539517c6eddc6a076ddeb4ad04521a037b02adcb61c",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzA0MjQ5Ng",
+      "criteria_proof": null
+    },
+    {
+      "created_date": "2022-11-14T20:38:02.947495",
+      "closing_date": "2022-11-17T20:37:51",
+      "listing_time": 1668458273,
+      "expiration_time": 1668717471,
+      "order_hash": "0xd1b681535587ec0d9b9583bb4672f0ea0136517d2088c5d2fb3eebdc370079ef",
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xb7e659c522115cfef11559ee10220875c6cffe02",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "4000000000000000000",
+              "endAmount": "4000000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+              "identifierOrCriteria": "75091537739658202260479703774779735507771121430652151926359791814049559595156",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xb7e659C522115Cfef11559EE10220875C6CFFE02"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "100000000000000000",
+              "endAmount": "100000000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "100000000000000000",
+              "endAmount": "100000000000000000",
+              "recipient": "0xA858DDc0445d8131daC4d1DE01f834ffcbA52Ef1"
+            }
+          ],
+          "startTime": "1668458273",
+          "endTime": "1668717471",
+          "orderType": 2,
+          "zone": "0x004C00500000aD104D7DBd00e3ae0A5C00560C00",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe000000000000000000000000000000000000000037ecca49b6acd7c3",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": "0x81f7db159eecf1621337a0ccffab8b513b721033da975a347689673c9039f9a72968116a8e4fa769eafdb8691ff9c02b10d0085059936a8c92cd489a301f181f1b"
+      },
+      "protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "maker": {
+        "user": 2643360,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
+        "address": "0xb7e659c522115cfef11559ee10220875c6cffe02",
+        "config": ""
+      },
+      "taker": null,
+      "current_price": "4000000000000000000",
+      "maker_fees": [],
+      "taker_fees": [
+        {
+          "account": {
+            "user": 35330734,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+            "address": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+            "config": "verified"
+          },
+          "basis_points": "250"
+        },
+        {
+          "account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0x0000a26b00c1f0df003000390027140000faa719",
+            "config": ""
+          },
+          "basis_points": "250"
+        }
+      ],
+      "side": "bid",
+      "order_type": "criteria",
+      "cancelled": false,
+      "finalized": false,
+      "marked_invalid": false,
+      "client_signature": "0x81f7db159eecf1621337a0ccffab8b513b721033da975a347689673c9039f9a72968116a8e4fa769eafdb8691ff9c02b10d0085059936a8c92cd489a301f181f1b",
+      "relay_id": "T3JkZXJWMlR5cGU6NjkxMzAzNTA2NA",
+      "criteria_proof": null
+    }
+  ],
+  "creator": {
+    "user": {
+      "username": "BoredApeYachtClub"
+    },
+    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/5.png",
+    "address": "0xaba7161a7fb69c88e16ed9f455ce62b791ee4d03",
+    "config": "verified"
+  },
+  "traits": [
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 158,
+      "order": null
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 479,
+      "order": null
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 333,
+      "order": null
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1273,
+      "order": null
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 882,
+      "order": null
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 144,
+      "order": null
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1370,
+      "order": null
+    }
+  ],
+  "last_sale": {
+    "asset": {
+      "decimals": 0,
+      "token_id": "6715"
+    },
+    "asset_bundle": null,
+    "event_type": "successful",
+    "event_timestamp": "2021-05-02T04:12:14",
+    "auction_type": null,
+    "total_price": "300000000000000000",
+    "payment_token": {
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000",
+      "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+      "name": "Ether",
+      "decimals": 18,
+      "eth_price": "1.000000000000000",
+      "usd_price": "1250.470000000000027000"
+    },
+    "transaction": {
+      "block_hash": "0x8d5fc32457c244ac02b622a465935b31416afc4071a14a2ec92068e36dd9b516",
+      "block_number": "12352583",
+      "from_account": {
+        "user": {
+          "username": "StormNFT"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+        "address": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+        "config": ""
+      },
+      "id": 108851310,
+      "timestamp": "2021-05-02T04:12:14",
+      "to_account": {
+        "user": {
+          "username": "OpenSea-Orders"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+        "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "config": "verified"
+      },
+      "transaction_hash": "0x3c69a4dc8a033708ebbf7a115de2f51058f21ed9ea9fb2fe4e8bcb52dec924eb",
+      "transaction_index": "61"
+    },
+    "created_date": "2021-05-02T04:12:32.092844",
+    "quantity": "1"
+  },
+  "top_bid": null,
+  "listing_date": null,
+  "is_presale": false,
+  "supports_wyvern": true,
+  "rarity_data": null,
+  "transfer_fee": null,
+  "transfer_fee_payment_token": null,
+  "related_assets": [],
+  "orders": null,
+  "auctions": [],
+  "top_ownerships": [
+    {
+      "owner": {
+        "user": {
+          "username": "StormNFT"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+        "address": "0x4385ff4b76d8a7fa8075ed1ee27c82ffe0951456",
+        "config": ""
+      },
+      "quantity": "1",
+      "created_date": "2022-06-08T13:00:52.622547+00:00"
+    }
+  ],
+  "ownership": null,
+  "highest_buyer_commitment": null,
+  "token_id": "6715"
+}

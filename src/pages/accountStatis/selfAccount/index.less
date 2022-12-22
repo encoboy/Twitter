@@ -1,0 +1,185 @@
+.container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #f7f9fa;
+  .headBox {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    background-color: white;
+    .headMenu {
+      margin-bottom: 15px;
+      color: #959da5;
+      font-size: 16px;
+    }
+    .title {
+      font-weight: 600;
+      font-size: 20px;
+    }
+  }
+
+  .tongjiBox {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 15px 0;
+    background-color: white;
+    .itemBox {
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 50px;
+      > span {
+        color: #959da5;
+        font-size: 14px;
+      }
+      > div {
+        font-weight: 600;
+        font-size: 20px;
+      }
+    }
+    .borderRight {
+      border-right: 1px solid lightgray;
+    }
+  }
+
+  .tableTitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 70px;
+    padding: 0 18px;
+    background-color: white;
+
+    .title {
+      font-size: 16px;
+    }
+    .btnsBox {
+      display: flex;
+      justify-content: space-between;
+      width: 240px;
+      .notActiveBtn {
+        width: 60px;
+        height: 30px;
+        color: black;
+        line-height: 30px;
+        text-align: center;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .activeBtn {
+        color: #559dff;
+        border: 1px solid #559dff;
+      }
+    }
+  }
+
+  .nameBox {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    margin-left: 20px;
+    > img {
+      width: 50px;
+      height: 50px;
+    }
+    .rightBox {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      margin-left: 5px;
+    }
+  }
+
+  .content {
+    flex: 1;
+    .title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 24px;
+      color: #2a365a;
+      font-weight: 500;
+      font-size: 13px;
+      font-family: PingFang SC;
+      background-color: #fff;
+      .right {
+        display: flex;
+        align-items: center;
+      }
+    }
+    .listView {
+      margin-top: 10px;
+      padding: 12px 24px 24px;
+      background-color: #fff;
+      .addBtn {
+        width: 101px;
+        height: 34px;
+        color: #2a365a;
+        font-weight: 500;
+        font-size: 13px;
+        font-family: PingFang SC;
+        border: 1px solid #ddd;
+        border-radius: 17px;
+        img {
+          width: 13px;
+          height: 13px;
+          margin-right: 5px;
+          margin-bottom: 2px;
+        }
+      }
+      .reloadBtn {
+        height: 34px;
+        color: #2a365a;
+        font-weight: 500;
+        font-size: 13px;
+        font-family: PingFang SC;
+      }
+      .jsonConfig {
+        width: 300px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+
+  .delete {
+    color: red;
+  }
+  .action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .editBtn {
+    color: #3472ff;
+  }
+  .pagiSty {
+    justify-content: flex-end;
+    padding-right: 24px;
+  }
+  :global {
+    // searchForm label框样式
+    .ant-pro-card {
+      padding: 0px !important;
+    }
+    .ant-form-item-label {
+      flex: 0 0 60px !important;
+      text-align: start;
+    }
+    .ant-row-start {
+      > div:nth-child(2) {
+        .ant-form-item-label {
+          flex: 0 0 88px !important;
+          text-align: start;
+        }
+      }
+    }
+  }
+}

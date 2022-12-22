@@ -1,0 +1,88 @@
+//  admin端 tablePro全局修改
+.comTablePro {
+  // 处理ProTable的搜索form表单样式和列表样式
+  .ant-pro-table {
+    // 处理searchForm和list框的padding
+    .ant-pro-card {
+      margin-bottom: 0;
+      padding: 24px 0 0 0;
+    }
+    // 单独处理第二个.ant-pro-card 也就是table表格
+    > div:nth-child(2) {
+      padding: 0;
+    }
+    // 搜索的按钮样式
+    .ant-pro-table-search {
+      border-bottom: 1px solid #ddd;
+      .ant-form {
+        // 重置、查询按钮左移
+        .ant-row-start {
+          > div:last-child {
+            margin-left: 0;
+            text-align: left !important;
+            .ant-form-item-label {
+              flex: 0 !important;
+            }
+          }
+        }
+      }
+      // searchForm输入框样式
+      .ant-form-item-control-input {
+        min-height: 34px;
+      }
+      // searchForm输入框的label标题样式
+      .ant-form-item-label > label {
+        height: 100%;
+        color: #2a365a;
+        font-weight: 400;
+        font-size: 13px;
+      }
+      // searchForm的重置按钮
+      .ant-btn-primary {
+        width: 80px;
+        height: 34px;
+        margin-left: 10px;
+        font-weight: 400;
+        font-size: 13px;
+        border-radius: 17px;
+      }
+      // searchForm的查询按钮
+      .ant-btn-default {
+        width: 80px;
+        height: 34px;
+        color: #2a365a;
+        font-weight: 400;
+        font-size: 13px;
+        border-color: #ddd;
+        border-radius: 17px;
+      }
+    }
+    // 修改列表样式
+    .ant-pro-card-body {
+      padding: 0;
+      .ant-pro-table-list-toolbar-container {
+        justify-content: start;
+        padding: 20px 0;
+      }
+      .ant-table-tbody > tr > td {
+        height: 54px;
+        color: #2a365a;
+        font-weight: 400;
+        border-bottom: 0;
+      }
+      .ant-table-thead > tr > th {
+        height: 54px;
+        color: #2a365a;
+        font-weight: 500;
+        font-size: 13px;
+        border-bottom: 0;
+      }
+      // 去掉table的分割线
+      .ant-table-thead
+        > tr
+        > th:not(:last-child):not(.ant-table-selection-column):not(.ant-table-row-expand-icon-cell):not([colspan])::before {
+        width: 0;
+      }
+    }
+  }
+}
