@@ -25,7 +25,7 @@ import {
 import { Alert, message, Tabs } from 'antd';
 import React, { useEffect, useState } from 'react';
 import { useRequest } from 'ahooks';
-import { gettwitterstatistical } from '@/services/ant-design-pro/api';
+import { gettwitterstatistical } from '@/utils/request';
 import styles from './index.less';
 
 const LoginMessage: React.FC<{
@@ -68,7 +68,7 @@ const Login: React.FC = () => {
     }
   };
 
-  const { loading, run } = useRequest(gettwitterstatistical, {
+  const { run } = useRequest(gettwitterstatistical, {
     manual: true,
     onSuccess: async (result, params) => {
       const { data = {}, code } = result;
@@ -108,7 +108,7 @@ const Login: React.FC = () => {
       });
       if (msg.code == 200) {
         localStorage.setItem('login_token', msg.data.token);
-        run({ login_token: msg.data.token });
+        run({ login_token: msg.data.token, user_type: 1 });
 
         return;
       }

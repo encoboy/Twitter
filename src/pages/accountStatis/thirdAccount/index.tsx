@@ -4,7 +4,7 @@ import classNames from 'classnames';
 import { useRef, useState, useEffect } from 'react';
 import { useIntl } from '@umijs/max';
 import { useRequest } from 'ahooks';
-import { gettwitterstatistical } from '@/services/ant-design-pro/api';
+import { gettwitterstatistical } from '@/utils/request';
 import img1 from '@/assets/img/1.png';
 import styles from './index.less';
 import { useModel } from 'umi';
@@ -96,8 +96,7 @@ const ThirdAccount = () => {
   const [btnIndex, setBtnIndex] = useState(0);
   const { initialState = {}, setInitialState } = useModel('@@initialState');
   const { twitterstatistical = {} } = initialState;
-  console.log('twitterstatistical====2', twitterstatistical);
-  const { loading, run } = useRequest(gettwitterstatistical, {
+  const { run } = useRequest(gettwitterstatistical, {
     manual: true,
     onSuccess: async (result, params) => {
       const { data = {} } = result;
@@ -121,7 +120,7 @@ const ThirdAccount = () => {
       twitterstatistical.follow_change != 0 &&
       !twitterstatistical.follow_change
     ) {
-      run({ login_token });
+      run({ login_token, user_type: 2 });
     }
   }, []);
 

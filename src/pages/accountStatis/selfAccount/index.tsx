@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useIntl } from '@umijs/max';
 import { useModel } from 'umi';
 import { useRequest } from 'ahooks';
-import { gettwitterstatistical } from '@/services/ant-design-pro/api';
+import { gettwitterstatistical } from '@/utils/request';
 import img1 from '@/assets/img/1.png';
 import styles from './index.less';
 const dataList1 = [
@@ -89,8 +89,7 @@ const SelfAccount = () => {
   const { twitterstatistical = {} } = initialState;
   const intl = useIntl();
   const actionRef = useRef<any>();
-  console.log('twitterstatistical====1', twitterstatistical);
-  const { loading, run } = useRequest(gettwitterstatistical, {
+  const { run } = useRequest(gettwitterstatistical, {
     manual: true,
     onSuccess: async (result, params) => {
       const { data = {} } = result;
@@ -114,7 +113,7 @@ const SelfAccount = () => {
       twitterstatistical.follow_change != 0 &&
       !twitterstatistical.follow_change
     ) {
-      run({ login_token });
+      run({ login_token, user_type: 1 });
     }
   }, []);
 
