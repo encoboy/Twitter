@@ -1,5 +1,5 @@
 import Footer from '@/components/Footer';
-import { login } from '@/services/ant-design-pro/api';
+import { login } from '@/utils/request';
 import { getFakeCaptcha } from '@/services/ant-design-pro/login';
 import {
   AlipayCircleOutlined,
@@ -23,9 +23,7 @@ import {
   useModel,
 } from '@umijs/max';
 import { Alert, message, Tabs } from 'antd';
-import React, { useEffect, useState } from 'react';
-import { useRequest } from 'ahooks';
-import { gettwitterstatistical } from '@/utils/request';
+import React, { useState } from 'react';
 import styles from './index.less';
 
 const LoginMessage: React.FC<{
@@ -68,51 +66,27 @@ const Login: React.FC = () => {
     }
   };
 
-  const { run } = useRequest(gettwitterstatistical, {
-    manual: true,
-    onSuccess: async (result, params) => {
-      const { data = {}, code } = result;
-      if (code !== 200) {
-        message.error('登录失败');
-        return;
-      }
-      const { list = {} } = data;
-      let twitterstatistical = {
-        follow_change: list.follow_change,
-        follow_count: list.follow_count,
-        increase_follow_rate: list.increase_follow_rate,
-        like_count: list.like_count,
-        re_tweet_count: list.re_tweet_count,
-        reply_count: list.reply_count,
-      };
-      const defaultLoginSuccessMessage = intl.formatMessage({
-        id: 'pages.login.success',
-        defaultMessage: '登录成功！',
-      });
-      message.success(defaultLoginSuccessMessage);
-      await fetchUserInfo();
-      const urlParams = new URL(window.location.href).searchParams;
-      history.push(urlParams.get('redirect') || '/');
-      setInitialState((init: any) => ({ ...init, twitterstatistical }));
-    },
-  });
-
   const intl = useIntl();
 
   const handleSubmit = async (values: API.LoginParams) => {
     try {
       // 登录
-      const msg = await login({
+      const msg: any = await login({
         username: values.username,
         password: values.password,
       });
       if (msg.code == 200) {
-        localStorage.setItem('login_token', msg.data.token);
-        run({ login_token: msg.data.token, user_type: 1 });
-
+        sessionStorage.setItem('adminToken', msg.data.token);
+        const defaultLoginSuccessMessage = intl.formatMessage({
+          id: 'pages.login.success',
+          defaultMessage: '登录成功！',
+        });
+        message.success(defaultLoginSuccessMessage);
+        await fetchUserInfo();
+        const urlParams = new URL(window.location.href).searchParams;
+        history.push(urlParams.get('redirect') || '/');
         return;
       }
-      console.log(msg);
       // 如果失败去设置用户错误信息
       setUserLoginState(msg);
     } catch (error) {

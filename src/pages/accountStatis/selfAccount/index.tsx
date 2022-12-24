@@ -86,15 +86,15 @@ const SelfAccount = () => {
   const [btnIndex, setBtnIndex] = useState(0);
   const [dataList, setDataList] = useState(dataList1);
   const { initialState = {}, setInitialState } = useModel('@@initialState');
-  const { twitterstatistical = {} } = initialState;
+  const { slefTwitterstatistical = {} } = initialState;
   const intl = useIntl();
   const actionRef = useRef<any>();
   const { run } = useRequest(gettwitterstatistical, {
     manual: true,
-    onSuccess: async (result, params) => {
+    onSuccess: (result: any) => {
       const { data = {} } = result;
       const { list = {} } = data;
-      let twitterstatistical = {
+      let slefTwitterstatistical = {
         follow_change: list.follow_change,
         follow_count: list.follow_count,
         increase_follow_rate: list.increase_follow_rate,
@@ -102,18 +102,18 @@ const SelfAccount = () => {
         re_tweet_count: list.re_tweet_count,
         reply_count: list.reply_count,
       };
-      setInitialState((init: any) => ({ ...init, twitterstatistical }));
+      setInitialState((init: any) => ({ ...init, slefTwitterstatistical }));
     },
   });
 
   useEffect(() => {
-    const login_token = localStorage.getItem('login_token');
+    const login_token = sessionStorage.getItem('adminToken');
     if (
       login_token !== null &&
-      twitterstatistical.follow_change != 0 &&
-      !twitterstatistical.follow_change
+      slefTwitterstatistical.follow_change != 0 &&
+      !slefTwitterstatistical.follow_change
     ) {
-      run({ login_token, user_type: 1 });
+      run({ user_type: 1, start_time: 1670284800, end_time: 1670457600 });
     }
   }, []);
 
@@ -224,42 +224,42 @@ const SelfAccount = () => {
         id: 'pages.searchTable.fenxizongliang',
         defaultMessage: '粉丝总量',
       }),
-      num: twitterstatistical.follow_count || 0,
+      num: slefTwitterstatistical.follow_count || 0,
     },
     {
       title: intl.formatMessage({
         id: 'pages.searchTable.fenxigaibian',
         defaultMessage: '粉丝变化',
       }),
-      num: twitterstatistical.follow_change || 0,
+      num: slefTwitterstatistical.follow_change || 0,
     },
     {
       title: intl.formatMessage({
         id: 'pages.searchTable.zhangfenlv',
         defaultMessage: '涨粉率',
       }),
-      num: twitterstatistical.increase_follow_rate || 0,
+      num: slefTwitterstatistical.increase_follow_rate || 0,
     },
     {
       title: intl.formatMessage({
         id: 'pages.searchTable.dianzanliang',
         defaultMessage: '点赞总量',
       }),
-      num: twitterstatistical.like_count || 0,
+      num: slefTwitterstatistical.like_count || 0,
     },
     {
       title: intl.formatMessage({
         id: 'pages.searchTable.pinglunliang',
         defaultMessage: '评论总量',
       }),
-      num: twitterstatistical.re_tweet_count || 0,
+      num: slefTwitterstatistical.re_tweet_count || 0,
     },
     {
       title: intl.formatMessage({
         id: 'pages.searchTable.zhuanfaliang',
         defaultMessage: '转发总量',
       }),
-      num: twitterstatistical.reply_count || 0,
+      num: slefTwitterstatistical.reply_count || 0,
     },
   ];
 

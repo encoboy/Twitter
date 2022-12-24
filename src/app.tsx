@@ -21,6 +21,8 @@ export async function getInitialState(): Promise<{
   loading?: boolean;
   fetchUserInfo?: () => Promise<API.CurrentUser | undefined>;
   twitterstatistical?: any;
+  slefTwitterstatistical?: any;
+  thirdTwitterstatistical?: any;
 }> {
   const fetchUserInfo = async () => {
     let result: API.CurrentUser = {
